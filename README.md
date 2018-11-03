@@ -1,1 +1,1 @@
-"# HappyModsBot" 
+# HappyModsBot
